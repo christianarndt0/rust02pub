@@ -27,7 +27,7 @@ fn main() {
 }
 ```
 
-Now you should be able to run the new crate's simple hello world function from the projects root directory.
+Now you should be able to run the new crate's simple example from the project's root directory.
 
 ```console
 $ cargo run
@@ -38,6 +38,9 @@ Hello, world!
 ```
 
 ## More Basic Boilerplate
+
+Cargo creates a very basic project with only the bare necessities to run an executable rust application.
+However, most projects require a lot more "infrastracture". Let's provide some more basic stuff that you will generally need.
 
 ### Adding A Placeholder Library
 
