@@ -2,9 +2,11 @@
 
 [Rust: From 0 To Publish](./prefix.md)
 
-- [Installation](./installation.md)
+- [Installing Rust](./installation.md)
 
-- [New Project](./new_project.md)
+- [Cargo Overview](./cargo.md)
+
+- [Creating A New Project](./new_project.md)
   - [A Crate From Scratch](./new_project1.md)
 
 - [Testing](./testing.md)

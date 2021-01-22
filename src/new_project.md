@@ -1,4 +1,4 @@
-# New Project
+# Creating A New Project
 
 ## Complete Rust Crate Boilerplate
 
